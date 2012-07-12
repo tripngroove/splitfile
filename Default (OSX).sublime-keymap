@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
+	{ "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
+]

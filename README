@@ -1,0 +1,24 @@
+# INSTALLATION
+
+## Install the Plugin
+
+1. Copy the Splitfile directory into:
+    /Users/Admin/Library/Application Support/Sublime Text 2/Packages/
+
+## Create Hotkeys
+
+1. Open Sublime Text 2
+
+2. Open menu: "Sublime Text 2" > Preferences > Key Bindings - User
+
+3. Add (and customize) the following lines:
+    { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
+    { "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
+
+
+The entire file should look like this if you have no other custom keymappings:
+
+[
+    { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
+    { "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
+]
