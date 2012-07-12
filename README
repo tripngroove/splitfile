@@ -9,7 +9,7 @@
 
 1. Open Sublime Text 2
 
-2. Open menu: "Sublime Text 2" > Preferences > Key Bindings - User
+2. Open menu: Sublime Text 2 > Preferences > Key Bindings - User
 
 3. Add (and customize) the following lines:
     { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
