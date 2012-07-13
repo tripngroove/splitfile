@@ -15,8 +15,11 @@
     { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
     { "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
 
+4. Save
 
-The entire file should look like this if you have no other custom keymappings:
+5. Try it!
+
+Note: your keymap file should look like this if you have no other custom mappings:
 
 [
     { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
