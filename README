@@ -19,14 +19,16 @@
 
 5. Try it!
 
-Note: your keymap file should look like this if you have no other custom mappings:
+### Note: your keymap file should look like this if you have no other custom mappings:
 
 [
     { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
     { "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
 ]
 
-### Optional How-to: Run this plugin from the Sublime Text 2 command-prompt
+# MISC
+
+## Run this plugin from the Sublime Text 2 command-prompt
 
 1. Open the command prompt: 
     ctrl+`
