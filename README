@@ -25,3 +25,13 @@ Note: your keymap file should look like this if you have no other custom mapping
     { "keys": ["super+alt+ctrl+h"], "command": "splitfileh" },
     { "keys": ["super+alt+ctrl+v"], "command": "splitfilev" }
 ]
+
+## How-to: Run from the Sublime Text 2 command-prompt
+
+1. Open the command prompt: 
+    ctrl+`
+
+2. Run: 
+    window.run_command('splitfileh')
+    OR
+    window.run_command('splitfilev')
